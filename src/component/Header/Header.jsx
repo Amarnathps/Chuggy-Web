@@ -7,7 +7,7 @@ export default function Header() {
       <nav class="nav-bar">
         <div class="logo">
           <div class="logo-icon">C</div>
-          <h1>Chuggy</h1>
+          <h1>Chuggys App</h1>
         </div>
         <div class="nav-links">
           <a href="#">Home</a>
