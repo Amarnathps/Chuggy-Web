@@ -5,7 +5,7 @@ function Content() {
         <div class="left">
             <div class="left-text">
                 <h2>Order food from your favorite restaurants!</h2>
-                <p>Delicious food delivered fast to your doorstep — anytime, anywhere.</p>
+                <p>Delicious food delivered fast to your — anytime, anywhere.</p>
 
                 <div class="search-bar">
 
