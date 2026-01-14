@@ -1,0 +1,20 @@
+.title h2 {
+      font-size: 28px;
+      margin-left: 45px;
+      margin-top: 45px;
+    }
+
+    .row {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 15px;
+    }
+
+    .fooditems img {
+      width: 150px;
+      height: auto;
+      border-radius: 10px;
+      cursor: pointer;
+
+    }

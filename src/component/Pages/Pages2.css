@@ -1,0 +1,49 @@
+.titles h3 {
+      font-size: 28px;
+      margin-left: 45px;
+      margin-top: 45px;
+    }
+
+    .restaurants {
+      padding: 50px 80px;
+    }
+
+    .restaurants h2 {
+      margin-bottom: 5%;
+      font-size: 28px;
+    }
+
+    .restaurant-grid {
+      display: flex;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      gap: 80px;
+    }
+
+    .restaurant-card {
+      background-color: white;
+      border-radius: 15px;
+      overflow: hidden;
+      min-width: 350px;
+      cursor: pointer;
+    }
+
+    .restaurant-card img {
+      width: 100%;
+      height: 160px;
+      object-fit: cover;
+    }
+
+    .restaurant-info {
+      padding: 15px;
+    }
+
+    .restaurant-info h3 {
+      margin-bottom: 5px;
+      color: #222;
+    }
+
+    .restaurant-info p {
+      color: #666;
+      font-size: 14px;
+    }

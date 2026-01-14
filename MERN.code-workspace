@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "MERN",
+			"path": "../../MERN"
+		},
+		{
+			"name": "Project",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
